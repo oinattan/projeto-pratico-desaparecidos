@@ -7,7 +7,7 @@
 - Cidade / Estado: Várzea Grande, MT
 - Projeto inscrito: PROJETO PRÁTICO – IMPLEMENTAÇÃO FRONT-END
 - Repositório GitHub: https://github.com/oinattan/projeto-pratico-desaparecidos
-- Link da versão (preview): https://desenvolve-mt.vercel.app/
+- Link da vercel (Previa): https://desenvolve-mt.vercel.app/
 
 ## Configuração da API
 
