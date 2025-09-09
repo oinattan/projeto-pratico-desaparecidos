@@ -1,10 +1,10 @@
 # Desenvolve MT - SPA Pessoas Desaparecidas
 
 ## Dados de inscrição
-- Nome: [Natan Gomes Biazon]
-- E-mail: [nattangg27@gmail.com]
-- Telefone: [(65) 99261-6870]
-- Cidade / Estado: [Várzea Grande, MT]
+- Nome: Natan Gomes Biazon
+- E-mail: nattangg27@gmail.com
+- Telefone: (65) 99261-6870
+- Cidade / Estado: Várzea Grande, MT
 - Projeto inscrito: PROJETO PRÁTICO – IMPLEMENTAÇÃO FRONT-END
 - Repositório GitHub: https://github.com/oinattan/projeto-pratico-desaparecidos
 - Link da versão (preview): https://desenvolve-mt.vercel.app/
@@ -154,6 +154,52 @@ Problemas comuns e soluções rápidas
 
 - Avisos LCP com `next/image`:
    - Marque imagens acima da dobra com `priority` e garanta proporção usando `width`/`height` ou `style`/`className` apropriados.
+
+## Dependências
+
+Dependências (runtime):
+
+- aceternity-ui @ ^0.2.2
+- axios @ ^1.5.0
+- class-variance-authority @ ^0.7.1
+- classnames @ ^2.3.2
+- clsx @ ^2.1.1
+- framer-motion @ ^12.23.12
+- lucide-react @ ^0.542.0
+- motion @ ^12.23.12
+- next @ 15.5.2
+- next-themes @ ^0.4.6
+- react @ 19.1.0
+- react-dom @ 19.1.0
+- react-hook-form @ ^7.45.1
+- react-input-mask @ ^2.0.4
+- tailwind-merge @ ^3.3.1
+- tailwindcss-animate @ ^1.0.7
+
+Dependências de desenvolvimento (devDependencies):
+
+- @babel/core @ ^7.28.4
+- @babel/generator @ ^7.28.3
+- @babel/parser @ ^7.28.4
+- @eslint/eslintrc @ ^3
+- @tailwindcss/postcss @ ^4
+- @types/node @ ^20
+- @types/react @ ^19
+- @types/react-dom @ ^19
+- eslint @ ^9
+- eslint-config-next @ 15.5.2
+- fs-extra @ ^11.3.1
+- glob @ ^11.0.3
+- tailwindcss @ ^4
+- typescript @ ^5
+
+Instalação rápida:
+
+```bash
+npm install
+```
+
+Observação: as versões usam as entradas do `package.json` do projeto; se você usa `pnpm` ou `yarn`, adapte o comando de instalação conforme necessário.
 
 Licença
 - Verifique LICENSE no repositório (se aplicável).
